@@ -368,6 +368,7 @@ public class SuperTNTMod {
     }
 
     @EventHandler
+    @SideOnly(Side.CLIENT)
     public void init(FMLInitializationEvent event) {
         RenderingRegistry.registerEntityRenderingHandler(SuperTNTMod.LARGE_TNT_ENTITY.getEntityClass(), new RenderTNTLargePrimed(Minecraft.getMinecraft().getRenderManager()));
         RenderingRegistry.registerEntityRenderingHandler(SuperTNTMod.MASSIVE_TNT_ENTITY.getEntityClass(), new RenderTNTMassivePrimed(Minecraft.getMinecraft().getRenderManager()));

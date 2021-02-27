@@ -6,6 +6,8 @@ import net.minecraftforge.event.RegistryEvent.Register;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder;
+import net.minecraftforge.fml.relauncher.Side;
+import net.minecraftforge.fml.relauncher.SideOnly;
 
 @ObjectHolder("supertnt")
 public class SoundHandler {
@@ -126,6 +128,7 @@ public class SoundHandler {
     public static class RegistrationHandler {
 
         @SubscribeEvent
+        @SideOnly(Side.CLIENT)
         public static void registerSoundEvents(Register<SoundEvent> event) {
             event.getRegistry().registerAll(SoundHandler.WRISTROCKETS, SoundHandler.BF2QUOTE1, SoundHandler.BF2QUOTE2, SoundHandler.BF2QUOTE3, SoundHandler.BF2QUOTE4, SoundHandler.BF2QUOTE5, SoundHandler.BF2QUOTE6, SoundHandler.WIN95, SoundHandler.WIN98, SoundHandler.DIALUP, SoundHandler.ACROSSTHESTARS2, SoundHandler.NEVERFORGET, SoundHandler.SPACE1, SoundHandler.SPACE2, SoundHandler.SPACE3, SoundHandler.SPACE4, SoundHandler.SPACE5, SoundHandler.SPACE6, SoundHandler.SPACE7, SoundHandler.SPACE8, SoundHandler.SPACE9, SoundHandler.SPACE10, SoundHandler.SPACE11, SoundHandler.SPACE12, SoundHandler.SPACE13, SoundHandler.SPACE14, SoundHandler.SPACE15, SoundHandler.SPACE16, SoundHandler.SPACE17, SoundHandler.SPACE18, SoundHandler.SPACE19, SoundHandler.SPACE20, SoundHandler.CHEESE, SoundHandler.ANGELS, SoundHandler.NOGODNO, SoundHandler.NONONO, SoundHandler.FACT1, SoundHandler.FACT2, SoundHandler.FACT3, SoundHandler.FACT4, SoundHandler.FACT5, SoundHandler.FACT6, SoundHandler.FACT7, SoundHandler.FACT8, SoundHandler.FACT9, SoundHandler.FACT10, SoundHandler.FACT11, SoundHandler.FACT12, SoundHandler.FACT13, SoundHandler.FACT14, SoundHandler.FACT15, SoundHandler.FACT16, SoundHandler.FACT17, SoundHandler.FACT18, SoundHandler.FACT19, SoundHandler.FACT20, SoundHandler.FACT21, SoundHandler.FACT22, SoundHandler.FACT23, SoundHandler.FACT24, SoundHandler.FACT25, SoundHandler.FACT26, SoundHandler.FACT27, SoundHandler.FACT28, SoundHandler.FACT29, SoundHandler.FACT30, SoundHandler.FACT31, SoundHandler.FACT32, SoundHandler.FACT33, SoundHandler.FACT34, SoundHandler.FACT35, SoundHandler.FACT36, SoundHandler.FACT37, SoundHandler.FACT38, SoundHandler.FACT39, SoundHandler.FACT40, SoundHandler.FACT41, SoundHandler.FACT42, SoundHandler.FACT43, SoundHandler.FACT44, SoundHandler.FACT45, SoundHandler.FACT46, SoundHandler.FACT47, SoundHandler.FACT48, SoundHandler.FACT49, SoundHandler.FACT50, SoundHandler.FACT51, SoundHandler.FACT52, SoundHandler.FACT53, SoundHandler.FACT54, SoundHandler.FACT55, SoundHandler.FACT56, SoundHandler.FACT57);
             System.out.println("created sound to string from the class within the class = " + SoundHandler.WRISTROCKETS.toString());
