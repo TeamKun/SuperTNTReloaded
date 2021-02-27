@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"normal": {
+			"model": "supertnt:airbornetnt"
+		},
+		"explode=true": {
+			"model": "supertnt:airbornetnt"
+		},
+		"explode=false": {
+			"model": "supertnt:airbornetnt"
+		}
+	}
+}

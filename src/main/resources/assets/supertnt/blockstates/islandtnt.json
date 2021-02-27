@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"normal": {
+			"model": "supertnt:islandtnt"
+		},
+		"explode=true": {
+			"model": "supertnt:islandtnt"
+		},
+		"explode=false": {
+			"model": "supertnt:islandtnt"
+		}
+	}
+}

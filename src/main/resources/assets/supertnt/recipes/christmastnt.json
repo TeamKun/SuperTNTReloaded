@@ -1,0 +1,23 @@
+{
+   "type":"minecraft:crafting_shaped",
+   "group":"supertnt",
+   "pattern":[
+      "A  ",
+      "AA ",
+      "BAA"
+   ],
+   "key":{
+      "A":{
+         "item":"minecraft:leaves",
+         "data": 0
+      },
+      "B":{
+         "item":"minecraft:tnt",
+         "data": 0
+      }
+   },
+   "result":{
+      "item":"supertnt:isitchristmastnt",
+      "data":0
+   }
+}

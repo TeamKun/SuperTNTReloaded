@@ -1,0 +1,21 @@
+{
+   "type":"minecraft:crafting_shapeless",
+   "group":"supertnt",
+   "ingredients":[
+      {
+         "item": "minecraft:water_bucket",
+         "data": 0
+      },
+      {
+         "item": "minecraft:redstone",
+         "data": 0
+      },
+      {
+         "item": "minecraft:tnt",
+         "data": 0
+      }],
+   "result":{
+      "item":"supertnt:thundertnt",
+      "data":0
+   }
+}

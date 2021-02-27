@@ -1,0 +1,23 @@
+{
+   "type":"minecraft:crafting_shaped",
+   "group":"supertnt",
+   "pattern":[
+      "BBB",
+      "BAB",
+      "BBB"
+   ],
+   "key":{
+      "A":{
+         "item":"supertnt:largetnt",
+         "data": 0
+      },
+      "B":{
+         "item":"minecraft:egg",
+         "data": 0
+      }
+   },
+   "result":{
+      "item":"supertnt:airbornetnt",
+      "data":0
+   }
+}

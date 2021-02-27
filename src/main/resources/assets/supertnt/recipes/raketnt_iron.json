@@ -1,0 +1,17 @@
+{
+   "type":"minecraft:crafting_shapeless",
+   "group":"supertnt",
+   "ingredients":[
+      {
+         "item": "minecraft:iron_hoe",
+         "data": 0
+      },
+      {
+         "item": "minecraft:tnt",
+         "data": 0
+      }],
+   "result":{
+      "item":"supertnt:raketnt",
+      "data":0
+   }
+}

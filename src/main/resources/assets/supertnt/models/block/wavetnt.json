@@ -1,0 +1,8 @@
+{
+	"parent": "block/cube_bottom_top",
+	"textures": {
+		"bottom": "supertnt:blocks/wavetnt_bottom",
+        "top": "supertnt:blocks/wavetnt_top",
+        "side": "supertnt:blocks/wavetnt_side"
+	}
+}

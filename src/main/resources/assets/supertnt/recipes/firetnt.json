@@ -1,0 +1,17 @@
+{
+   "type":"minecraft:crafting_shapeless",
+   "group":"supertnt",
+   "ingredients":[
+      {
+         "item": "supertnt:largetnt",
+         "data": 0
+      },
+      {
+         "item": "minecraft:flint_and_steel",
+         "data": 0
+      }],
+   "result":{
+      "item":"supertnt:firetnt",
+      "data":0
+   }
+}

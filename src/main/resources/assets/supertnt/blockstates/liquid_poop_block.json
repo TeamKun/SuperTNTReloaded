@@ -1,0 +1,179 @@
+
+   {
+ "forge_marker": 1,
+ "defaults": {
+  "model": "forge:fluid"
+ },
+ "variants": {
+  "normal": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ],
+  "level=0": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ],
+  "level=1": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ],
+  "level=2": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ],
+  "level=3": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ],
+  "level=4": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ]
+  ,
+  "level=5": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ]
+  ,
+  "level=6": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ]
+  ,
+  "level=7": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ]
+  ,
+  "level=8": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ]
+  ,
+  "level=9": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ]
+  ,
+  "level=10": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ]
+  ,
+  "level=11": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ]
+  ,
+  "level=12": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ]
+  ,
+  "level=13": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ]
+  ,
+  "level=14": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ]
+  ,
+  "level=15": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ]
+  ,
+  "level=16": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ]
+  ,
+  "level=17": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ]
+  ,
+  "level=18": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ]
+  ,
+  "level=19": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ]
+  ,
+  "level=20": [
+   {
+    "custom": {
+     "fluid": "liquidpoop"
+    }
+   }
+  ]
+        }
+   }

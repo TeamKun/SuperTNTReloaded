@@ -1,0 +1,23 @@
+{
+   "type":"minecraft:crafting_shaped",
+   "group":"supertnt",
+   "pattern":[
+      "BBB",
+      "BAB",
+      "BBB"
+   ],
+   "key":{
+      "A":{
+         "item":"supertnt:massivetnt",
+         "data": 0
+      },
+      "B":{
+         "item":"minecraft:iron_shovel",
+         "data": 0
+      }
+   },
+   "result":{
+      "item":"supertnt:cavetnt",
+      "data":0
+   }
+}

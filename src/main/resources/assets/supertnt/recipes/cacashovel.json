@@ -1,0 +1,23 @@
+{
+   "type":"minecraft:crafting_shaped",
+   "group":"supertnt",
+   "pattern":[
+      " B ",
+      " A ",
+      " A "
+   ],
+   "key":{
+      "A":{
+         "item":"minecraft:stick",
+         "data": 0
+      },
+      "B":{
+         "item":"supertnt:cacaingot",
+         "data": 0
+      }
+   },
+   "result":{
+      "item":"supertnt:cacashovel",
+      "data":0
+   }
+}

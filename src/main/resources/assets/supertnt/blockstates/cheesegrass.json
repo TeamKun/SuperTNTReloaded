@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"normal": {"model": "supertnt:cheesegrass"},
+		"snowy=false": {"model": "supertnt:cheesegrass"},
+		"snowy=true": {"model": "supertnt:cheesegrass"}
+	}
+}

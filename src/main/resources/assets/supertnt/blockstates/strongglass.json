@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"normal": {
+			"model": "supertnt:strongglass"
+		},
+		"explode=true": {
+			"model": "supertnt:strongglass"
+		},
+		"explode=false": {
+			"model": "supertnt:strongglass"
+		}
+	}
+}

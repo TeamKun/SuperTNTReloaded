@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"normal": {
+			"model": "supertnt:teleporttnt"
+		},
+		"explode=true": {
+			"model": "supertnt:teleporttnt"
+		},
+		"explode=false": {
+			"model": "supertnt:teleporttnt"
+		}
+	}
+}

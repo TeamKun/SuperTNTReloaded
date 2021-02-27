@@ -1,0 +1,8 @@
+{
+	"parent": "block/cube_bottom_top",
+	"textures": {
+		"bottom": "supertnt:blocks/nostalgiatnt_bottom",
+        "top": "supertnt:blocks/nostalgiatnt_top",
+        "side": "supertnt:blocks/nostalgiatnt_side"
+	}
+}

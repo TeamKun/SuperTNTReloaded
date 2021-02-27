@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"normal": {
+			"model": "supertnt:housetnt"
+		},
+		"explode=true": {
+			"model": "supertnt:housetnt"
+		},
+		"explode=false": {
+			"model": "supertnt:housetnt"
+		}
+	}
+}

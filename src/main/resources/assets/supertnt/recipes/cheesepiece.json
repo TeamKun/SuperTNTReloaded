@@ -1,0 +1,14 @@
+{
+   "type":"minecraft:crafting_shapeless",
+   "group":"supertnt",
+   "ingredients":[
+      {
+         "item": "supertnt:cheeseblock",
+         "data": 0
+      }],
+   "result":{
+      "item":"supertnt:cheesepiece",
+      "count":9 ,
+      "data":0
+   }
+}

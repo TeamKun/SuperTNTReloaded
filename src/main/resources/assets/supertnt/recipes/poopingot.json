@@ -1,0 +1,14 @@
+{
+   "type":"minecraft:crafting_shapeless",
+   "group":"supertnt",
+   "ingredients":[
+      {
+         "item": "supertnt:solidpoop",
+         "data": 0
+      }],
+   "result":{
+      "item":"supertnt:cacaingot",
+      "count":9,
+      "data":0
+   }
+}

@@ -1,0 +1,25 @@
+{
+   "type":"minecraft:crafting_shapeless",
+   "group":"supertnt",
+   "ingredients":[
+      {
+         "item": "minecraft:netherrack",
+         "data": 0
+      },
+      {
+         "item": "minecraft:lava_bucket",
+         "data": 0
+      },
+      {
+         "item": "minecraft:soul_sand",
+         "data": 0
+      },
+      {
+         "item": "supertnt:largetnt",
+         "data": 0
+      }],
+   "result":{
+      "item":"supertnt:helltnt",
+      "data":0
+   }
+}

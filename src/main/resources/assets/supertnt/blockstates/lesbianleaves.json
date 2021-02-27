@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"normal": {
+			"model": "supertnt:lesbianleaves"
+		},
+		"explode=true": {
+			"model": "supertnt:lesbianleaves"
+		},
+		"explode=false": {
+			"model": "supertnt:lesbianleaves"
+		}
+	}
+}

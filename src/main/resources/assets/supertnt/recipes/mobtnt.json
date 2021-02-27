@@ -1,0 +1,28 @@
+{
+   "type":"minecraft:crafting_shaped",
+   "group":"supertnt",
+   "pattern":[
+      "BCB",
+      "CAC",
+      "BCB"
+   ],
+   "key":{
+      "A":{
+         "item":"minecraft:tnt",
+         "data": 0
+      },
+      "B":{
+         "item":"minecraft:bone",
+         "data": 0
+      },
+      "C":{
+         "item":"minecraft:rotten_flesh",
+         "data": 0
+      }
+   },
+   "result":{
+      "item":"supertnt:mobtnt",
+      "count": 4,
+      "data":0
+   }
+}

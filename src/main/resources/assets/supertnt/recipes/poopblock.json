@@ -1,0 +1,19 @@
+{
+   "type":"minecraft:crafting_shaped",
+   "group":"supertnt",
+   "pattern":[
+      "AAA",
+      "AAA",
+      "AAA"
+   ],
+   "key":{
+      "A":{
+         "item":"supertnt:cacaingot",
+         "data": 0
+      }
+   },
+   "result":{
+      "item":"supertnt:solidpoop",
+      "data":0
+   }
+}

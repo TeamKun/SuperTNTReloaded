@@ -1,0 +1,17 @@
+{
+   "type":"minecraft:crafting_shapeless",
+   "group":"supertnt",
+   "ingredients":[
+      {
+         "item": "supertnt:floppydisc",
+         "data": 0
+      },
+      {
+         "item": "minecraft:tnt",
+         "data": 0
+      }],
+   "result":{
+      "item":"supertnt:savetnt",
+      "data":0
+   }
+}

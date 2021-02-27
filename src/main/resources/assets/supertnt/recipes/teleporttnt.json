@@ -1,0 +1,21 @@
+{
+   "type":"minecraft:crafting_shapeless",
+   "group":"supertnt",
+   "ingredients":[
+      {
+         "item": "minecraft:redstone",
+         "data": 0
+      },
+      {
+         "item": "minecraft:stone",
+         "data": 0
+      },
+      {
+         "item": "minecraft:tnt",
+         "data": 0
+      }],
+   "result":{
+      "item":"supertnt:teleporttnt",
+      "data":0
+   }
+}

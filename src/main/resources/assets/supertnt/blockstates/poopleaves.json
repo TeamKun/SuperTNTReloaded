@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"normal": {
+			"model": "supertnt:poopleaves"
+		},
+		"explode=true": {
+			"model": "supertnt:poopleaves"
+		},
+		"explode=false": {
+			"model": "supertnt:poopleaves"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+   "type":"minecraft:crafting_shapeless",
+   "group":"supertnt",
+   "ingredients":[
+      {
+         "item": "minecraft:cobblestone",
+         "data": 0
+      },
+      {
+         "item": "supertnt:teleporttnt",
+         "data": 0
+      },
+      {
+         "item": "minecraft:iron_bars",
+         "data": 0
+      }],
+   "result":{
+      "item":"supertnt:jailtnt",
+      "data":0
+   }
+}

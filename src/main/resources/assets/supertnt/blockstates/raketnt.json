@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"normal": {
+			"model": "supertnt:raketnt"
+		},
+		"explode=true": {
+			"model": "supertnt:raketnt"
+		},
+		"explode=false": {
+			"model": "supertnt:raketnt"
+		}
+	}
+}

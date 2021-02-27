@@ -1,0 +1,23 @@
+{
+   "type":"minecraft:crafting_shaped",
+   "group":"supertnt",
+   "pattern":[
+      "AAA",
+      "ABA",
+      "AAA"
+   ],
+   "key":{
+      "A":{
+         "item":"minecraft:sapling",
+         "data": 0
+      },
+      "B":{
+         "item":"supertnt:supertnt",
+         "data": 0
+      }
+   },
+   "result":{
+      "item":"supertnt:foresttnt",
+      "data":0
+   }
+}

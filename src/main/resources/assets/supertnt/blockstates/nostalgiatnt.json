@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"normal": {
+			"model": "supertnt:nostalgiatnt"
+		},
+		"explode=true": {
+			"model": "supertnt:nostalgiatnt"
+		},
+		"explode=false": {
+			"model": "supertnt:nostalgiatnt"
+		}
+	}
+}

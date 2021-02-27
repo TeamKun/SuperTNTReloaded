@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"normal": {
+			"model": "supertnt:weathertnt"
+		},
+		"explode=true": {
+			"model": "supertnt:weathertnt"
+		},
+		"explode=false": {
+			"model": "supertnt:weathertnt"
+		}
+	}
+}

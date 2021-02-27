@@ -1,0 +1,23 @@
+{
+   "type":"minecraft:crafting_shaped",
+   "group":"supertnt",
+   "pattern":[
+      "AAA",
+      "ABA",
+      "AAA"
+   ],
+   "key":{
+      "A":{
+         "item":"supertnt:diamondtnt",
+         "data": 0
+      },
+      "B":{
+         "item":"supertnt:supertnt",
+         "data": 0
+      }
+   },
+   "result":{
+      "item":"supertnt:diamondnuketnt",
+      "data":0
+   }
+}

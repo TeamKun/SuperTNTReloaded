@@ -1,0 +1,23 @@
+{
+   "type":"minecraft:crafting_shaped",
+   "group":"supertnt",
+   "pattern":[
+      "BBB",
+      "BAB",
+      "BBB"
+   ],
+   "key":{
+      "A":{
+         "item":"supertnt:teleporttnt",
+         "data": 0
+      },
+      "B":{
+         "item":"minecraft:redstone",
+         "data": 0
+      }
+   },
+   "result":{
+      "item":"supertnt:warptnt",
+      "data":0
+   }
+}

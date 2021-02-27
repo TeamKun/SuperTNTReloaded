@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"normal": {
+			"model": "supertnt:diamondnuketnt"
+		},
+		"explode=true": {
+			"model": "supertnt:diamondnuketnt"
+		},
+		"explode=false": {
+			"model": "supertnt:diamondnuketnt"
+		}
+	}
+}

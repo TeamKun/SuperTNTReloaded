@@ -1,0 +1,27 @@
+{
+   "type":"minecraft:crafting_shaped",
+   "group":"supertnt",
+   "pattern":[
+      "BBB",
+      "BAB",
+      "CCC"
+   ],
+   "key":{
+      "A":{
+         "item":"supertnt:massivetnt",
+         "data": 0
+      },
+      "B":{
+         "item":"minecraft:diamond_block",
+         "data": 0
+      },
+      "C":{
+         "item":"minecraft:redstone",
+         "data": 0
+      }
+   },
+   "result":{
+      "item":"supertnt:diamondtnt",
+      "data":0
+   }
+}

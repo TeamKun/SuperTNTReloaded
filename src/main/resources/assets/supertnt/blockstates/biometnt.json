@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"normal": {
+			"model": "supertnt:biometnt"
+		},
+		"explode=true": {
+			"model": "supertnt:biometnt"
+		},
+		"explode=false": {
+			"model": "supertnt:biometnt"
+		}
+	}
+}

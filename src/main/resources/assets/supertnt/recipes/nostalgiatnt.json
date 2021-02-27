@@ -1,0 +1,45 @@
+{
+   "type":"minecraft:crafting_shapeless",
+   "group":"supertnt",
+   "ingredients":[
+      {
+         "item": "supertnt:ps2keyboard",
+         "data": 0
+      },
+      {
+         "item": "supertnt:energysword",
+         "data": 0
+      },
+      {
+         "item": "supertnt:redsolocup",
+         "data": 0
+      },
+      {
+         "item": "supertnt:actionreplay",
+         "data": 0
+      },
+      {
+         "item": "supertnt:64mbram",
+         "data": 0
+      },
+      {
+         "item": "supertnt:snescontroller",
+         "data": 0
+      },
+      {
+         "item": "supertnt:floppydisc",
+         "data": 0
+      },
+      {
+         "item": "supertnt:nokia",
+         "data": 0
+      },
+      {
+         "item": "supertnt:sonic2",
+         "data": 0
+      }],
+   "result":{
+      "item":"supertnt:nostalgiatnt",
+      "data":0
+   }
+}

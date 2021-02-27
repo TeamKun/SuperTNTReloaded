@@ -1,0 +1,27 @@
+{
+   "type":"minecraft:crafting_shaped",
+   "group":"supertnt",
+   "pattern":[
+      "BBB",
+      "BAB",
+      "BCB"
+   ],
+   "key":{
+      "A":{
+         "item":"supertnt:massivetnt",
+         "data": 0
+      },
+      "B":{
+         "item":"minecraft:stone_sword",
+         "data": 0
+      },
+      "C":{
+         "item":"supertnt:mobtnt",
+         "data": 0
+      }
+   },
+   "result":{
+      "item":"supertnt:nomobtnt",
+      "data":0
+   }
+}

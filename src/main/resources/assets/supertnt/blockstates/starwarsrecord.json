@@ -1,0 +1,9 @@
+{
+	"variants": {
+		"normal": {
+			"model": "supertnt:starwarsrecord"
+		},
+		"inventory": {
+			"model": "supertnt:starwarsrecord"
+	}
+}

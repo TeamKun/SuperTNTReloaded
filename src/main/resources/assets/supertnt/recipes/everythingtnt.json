@@ -1,0 +1,51 @@
+{
+   "type":"minecraft:crafting_shaped",
+   "group":"supertnt",
+   "pattern":[
+      "ABC",
+      "DEF",
+      "GHI"
+   ],
+   "key":{
+      "A":{
+         "item":"minecraft:cobblestone",
+         "data": 0
+      },
+      "B":{
+         "item":"supertnt:mob2tnt",
+         "data": 0
+      },
+      "C":{
+         "item":"minecraft:diamond",
+         "data": 0
+      },
+      "D":{
+         "item":"minecraft:lava_bucket",
+         "data": 0
+      },
+      "E":{
+         "item":"supertnt:supertnt",
+         "data": 0
+      },
+      "F":{
+         "item":"minecraft:potato",
+         "data": 0
+      },
+      "G":{
+         "item":"minecraft:iron_door",
+         "data": 0
+      },
+      "H":{
+         "item":"minecraft:stone_axe",
+         "data": 0
+      },
+      "I":{
+         "item":"minecraft:ladder",
+         "data": 0
+      }
+   },
+   "result":{
+      "item":"supertnt:everythingtnt",
+      "data":0
+   }
+}

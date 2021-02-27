@@ -1,0 +1,17 @@
+{
+   "type":"minecraft:crafting_shapeless",
+   "group":"supertnt",
+   "ingredients":[
+      {
+         "item": "minecraft:tnt",
+         "data": 0
+      },
+      {
+         "item": "minecraft:milk_bucket",
+         "data": 0
+      }],
+   "result":{
+      "item":"supertnt:cheesetnt",
+      "data":0
+   }
+}

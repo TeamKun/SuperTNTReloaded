@@ -1,0 +1,17 @@
+{
+   "type":"minecraft:crafting_shapeless",
+   "group":"supertnt",
+   "ingredients":[
+      {
+         "item": "minecraft:book",
+         "data": 0
+      },
+      {
+         "item": "minecraft:tnt",
+         "data": 0
+      }],
+   "result":{
+      "item":"supertnt:facttnt",
+      "data":0
+   }
+}

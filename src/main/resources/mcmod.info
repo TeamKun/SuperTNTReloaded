@@ -1,0 +1,16 @@
+[
+{
+  "modid": "supertnt",
+  "name": "Super TNT Mod",
+  "description": "Adds 56 new TNTs to Minecraft",
+  "version": "1.0.1",
+  "mcversion": "1.12.2",
+  "url": "http://lolyoujellybro.com",
+  "updateUrl": "",
+  "authorList": ["Xeraster"],
+  "credits": "My neighbor's tree and that one bag of doritos I ate the other day",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

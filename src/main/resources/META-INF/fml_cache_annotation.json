@@ -1,0 +1,191 @@
+{
+  "com/xeraster/supertnt/SoundHandler": {
+    "name": "com/xeraster/supertnt/SoundHandler",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "com/xeraster/supertnt/SoundHandler",
+        "value": {
+          "value": "supertnt"
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "WRISTROCKETS",
+        "value": {
+          "value": "wristrockets"
+        }
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "registerSoundEvents1(Lnet/minecraftforge/event/RegistryEvent$Register;)V"
+      }
+    ]
+  },
+  "com/xeraster/supertnt/SoundHandler$RegistrationHandler": {
+    "name": "com/xeraster/supertnt/SoundHandler$RegistrationHandler",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Lnet/minecraftforge/fml/common/Mod$EventBusSubscriber;",
+        "target": "com/xeraster/supertnt/SoundHandler$RegistrationHandler",
+        "values": {
+          "modid": {
+            "value": "supertnt"
+          }
+        }
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "registerSoundEvents(Lnet/minecraftforge/event/RegistryEvent$Register;)V"
+      }
+    ]
+  },
+  "com/xeraster/supertnt/SuperTNTMod": {
+    "name": "com/xeraster/supertnt/SuperTNTMod",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Lnet/minecraftforge/fml/common/Mod;",
+        "target": "com/xeraster/supertnt/SuperTNTMod",
+        "values": {
+          "acceptedMinecraftVersions": {
+            "value": "[1.12.2]"
+          },
+          "modid": {
+            "value": "supertnt"
+          },
+          "name": {
+            "value": "Super TNT Mod"
+          },
+          "version": {
+            "value": "1.0.1"
+          }
+        }
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/Mod$EventHandler;",
+        "target": "preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/Mod$EventHandler;",
+        "target": "init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V"
+      }
+    ]
+  },
+  "com/xeraster/supertnt/SuperTNTMod$RegistrationHandler": {
+    "name": "com/xeraster/supertnt/SuperTNTMod$RegistrationHandler",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Lnet/minecraftforge/fml/common/Mod$EventBusSubscriber;",
+        "target": "com/xeraster/supertnt/SuperTNTMod$RegistrationHandler",
+        "values": {
+          "modid": {
+            "value": "supertnt"
+          }
+        }
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "registerBlocks(Lnet/minecraftforge/event/RegistryEvent$Register;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "registerStuff(Lnet/minecraftforge/event/RegistryEvent$Register;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "registerItemBlocks(Lnet/minecraftforge/event/RegistryEvent$Register;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onRegisterModels(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V"
+      }
+    ]
+  },
+  "com/xeraster/supertnt/blocks/BlockCheeseBush": {
+    "name": "com/xeraster/supertnt/blocks/BlockCheeseBush",
+    "interfaces": [
+      "net/minecraftforge/common/IShearable"
+    ]
+  },
+  "com/xeraster/supertnt/blocks/BlockCheeseGrass": {
+    "name": "com/xeraster/supertnt/blocks/BlockCheeseGrass",
+    "interfaces": [
+      "net/minecraftforge/common/IShearable"
+    ]
+  },
+  "com/xeraster/supertnt/blocks/BlockCrapGrass": {
+    "name": "com/xeraster/supertnt/blocks/BlockCrapGrass",
+    "interfaces": [
+      "net/minecraftforge/common/IShearable"
+    ]
+  },
+  "com/xeraster/supertnt/blocks/BlockGayPlant": {
+    "name": "com/xeraster/supertnt/blocks/BlockGayPlant",
+    "interfaces": [
+      "net/minecraftforge/common/IShearable"
+    ]
+  },
+  "com/xeraster/supertnt/blocks/BlockPoopPlant": {
+    "name": "com/xeraster/supertnt/blocks/BlockPoopPlant",
+    "interfaces": [
+      "net/minecraftforge/common/IShearable"
+    ]
+  },
+  "com/xeraster/supertnt/init/Items": {
+    "name": "com/xeraster/supertnt/init/Items",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "com/xeraster/supertnt/init/Items",
+        "value": {
+          "value": "supertnt"
+        }
+      }
+    ]
+  },
+  "com/xeraster/supertnt/init/Items$RegistrationHandler": {
+    "name": "com/xeraster/supertnt/init/Items$RegistrationHandler",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Lnet/minecraftforge/fml/common/Mod$EventBusSubscriber;",
+        "target": "com/xeraster/supertnt/init/Items$RegistrationHandler",
+        "values": {
+          "modid": {
+            "value": "supertnt"
+          }
+        }
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "registerItems(Lnet/minecraftforge/event/RegistryEvent$Register;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onRegisterModels(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V"
+      }
+    ]
+  },
+  "com/xeraster/supertnt/init/RegisterShit": {
+    "name": "com/xeraster/supertnt/init/RegisterShit",
+    "interfaces": [
+      "net/minecraftforge/fml/client/registry/IRenderFactory"
+    ]
+  }
+}

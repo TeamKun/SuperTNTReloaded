@@ -1,0 +1,25 @@
+{
+   "type":"minecraft:crafting_shapeless",
+   "group":"supertnt",
+   "ingredients":[
+      {
+         "item": "minecraft:dirt",
+         "data": 0
+      },
+      {
+         "item": "minecraft:sapling",
+         "data": 0
+      },
+      {
+         "item": "minecraft:stone",
+         "data": 0
+      },
+      {
+         "item": "supertnt:massivetnt",
+         "data": 0
+      }],
+   "result":{
+      "item":"supertnt:islandtnt",
+      "data":0
+   }
+}

@@ -1,0 +1,20 @@
+{
+   "type":"minecraft:crafting_shaped",
+   "group":"supertnt",
+   "pattern":[
+      "AAA",
+      "AAA",
+      "AAA"
+   ],
+   "key":{
+      "A":{
+         "item":"supertnt:mob2tnt",
+         "data": 0
+      }
+   },
+   "result":{
+      "item":"supertnt:mob3tnt",
+      "count": 4,
+      "data":0
+   }
+}

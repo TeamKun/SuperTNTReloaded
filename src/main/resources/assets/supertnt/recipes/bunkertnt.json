@@ -1,0 +1,23 @@
+{
+   "type":"minecraft:crafting_shaped",
+   "group":"supertnt",
+   "pattern":[
+      "BBB",
+      "BAB",
+      "BBB"
+   ],
+   "key":{
+      "A":{
+         "item":"supertnt:housetnt",
+         "data": 0
+      },
+      "B":{
+         "item":"minecraft:obsidian",
+         "data": 0
+      }
+   },
+   "result":{
+      "item":"supertnt:bunkertnt",
+      "data":0
+   }
+}

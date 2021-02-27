@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"normal": {
+			"model": "supertnt:cheeseleaves"
+		},
+		"explode=true": {
+			"model": "supertnt:cheeseleaves"
+		},
+		"explode=false": {
+			"model": "supertnt:cheeseleaves"
+		}
+	}
+}

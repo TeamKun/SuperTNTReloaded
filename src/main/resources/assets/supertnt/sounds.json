@@ -1,0 +1,855 @@
+{
+	"wristrockets": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:wristrockets",
+				"stream": true
+			}
+		]
+	},
+	"bf2quote1": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:bf2quote1",
+				"stream": true
+			}
+		]
+	},
+	"bf2quote2": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:bf2quote2",
+				"stream": true
+			}
+		]
+	},
+	"bf2quote3": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:bf2quote3",
+				"stream": true
+			}
+		]
+	},
+	"bf2quote4": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:bf2quote4",
+				"stream": true
+			}
+		]
+	},
+	"bf2quote5": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:bf2quote5",
+				"stream": true
+			}
+		]
+	},
+	"bf2quote6": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:bf2quote6",
+				"stream": true
+			}
+		]
+	},
+	"win95": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:win95",
+				"stream": true
+			}
+		]
+	},
+	"win98": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:win98",
+				"stream": true
+			}
+		]
+	},
+	"dialup": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:dialup",
+				"stream": true
+			}
+		]
+	},
+	"acrossthestars2": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:acrossthestars2",
+				"stream": true
+			}
+		]
+	},
+	"space1": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:space1",
+				"stream": true
+			}
+		]
+	},
+	"space2": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:space2",
+				"stream": true
+			}
+		]
+	},
+	"space3": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:space3",
+				"stream": true
+			}
+		]
+	},
+	"space4": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:space4",
+				"stream": true
+			}
+		]
+	},
+	"space5": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:space5",
+				"stream": true
+			}
+		]
+	},
+	"space6": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:space6",
+				"stream": true
+			}
+		]
+	},
+	"space7": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:space7",
+				"stream": true
+			}
+		]
+	},
+	"space8": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:space8",
+				"stream": true
+			}
+		]
+	},
+	"space9": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:space9",
+				"stream": true
+			}
+		]
+	},
+	"space10": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:space10",
+				"stream": true
+			}
+		]
+	},
+	"space11": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:space11",
+				"stream": true
+			}
+		]
+	},
+	"space12": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:space12",
+				"stream": true
+			}
+		]
+	},
+	"space13": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:space13",
+				"stream": true
+			}
+		]
+	},
+	"space14": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:space14",
+				"stream": true
+			}
+		]
+	},
+	"space15": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:space15",
+				"stream": true
+			}
+		]
+	},
+	"space16": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:space16",
+				"stream": true
+			}
+		]
+	},
+	"space17": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:space17",
+				"stream": true
+			}
+		]
+	},
+	"space18": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:space18",
+				"stream": true
+			}
+		]
+	},
+	"space19-inspace": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:space19-inspace",
+				"stream": true
+			}
+		]
+	},
+	"spaaaaace": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:spaaaaace",
+				"stream": true
+			}
+		]
+	},
+	"cheese": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:cheese",
+				"stream": true
+			}
+		]
+	},
+	"angels": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:angels",
+				"stream": true
+			}
+		]
+	},
+	"nonono": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:nonono",
+				"stream": true
+			}
+		]
+	},
+	"nogodno": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:nogodno",
+				"stream": true
+			}
+		]
+	},
+	"neverforget": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:neverforget",
+				"stream": true
+			}
+		]
+	},
+	"fact1": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact1",
+				"stream": true
+			}
+		]
+	},
+	"fact2": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact2",
+				"stream": true
+			}
+		]
+	},
+	"fact3": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact3",
+				"stream": true
+			}
+		]
+	},
+	"fact4": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact4",
+				"stream": true
+			}
+		]
+	},
+	"fact5": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact5",
+				"stream": true
+			}
+		]
+	},
+	"fact6": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact6",
+				"stream": true
+			}
+		]
+	},
+	"fact7": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact7",
+				"stream": true
+			}
+		]
+	},
+	"fact8": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact8",
+				"stream": true
+			}
+		]
+	},
+	"fact9": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact9",
+				"stream": true
+			}
+		]
+	},
+	"fact10": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact10",
+				"stream": true
+			}
+		]
+	},
+	"fact11": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact11",
+				"stream": true
+			}
+		]
+	},
+	"fact12": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact12",
+				"stream": true
+			}
+		]
+	},
+	"fact13": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact13",
+				"stream": true
+			}
+		]
+	},
+	"fact14": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact14",
+				"stream": true
+			}
+		]
+	},
+	"fact15": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact15",
+				"stream": true
+			}
+		]
+	},
+	"fact16": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact16",
+				"stream": true
+			}
+		]
+	},
+	"fact17": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact17",
+				"stream": true
+			}
+		]
+	},
+	"fact18": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact18",
+				"stream": true
+			}
+		]
+	},
+	"fact19": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact19",
+				"stream": true
+			}
+		]
+	},
+	"fact20": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact20",
+				"stream": true
+			}
+		]
+	},
+	"fact21": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact21",
+				"stream": true
+			}
+		]
+	},
+	"fact22": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact22",
+				"stream": true
+			}
+		]
+	},
+	"fact23": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact23",
+				"stream": true
+			}
+		]
+	},
+	"fact24": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact24",
+				"stream": true
+			}
+		]
+	},
+	"fact25": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact25",
+				"stream": true
+			}
+		]
+	},
+	"fact26": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact26",
+				"stream": true
+			}
+		]
+	},
+	"fact27": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact27",
+				"stream": true
+			}
+		]
+	},
+	"fact28": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact28",
+				"stream": true
+			}
+		]
+	},
+	"fact29": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact29",
+				"stream": true
+			}
+		]
+	},
+	"fact30": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact30",
+				"stream": true
+			}
+		]
+	},
+	"fact31": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact31",
+				"stream": true
+			}
+		]
+	},
+	"fact32": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact32",
+				"stream": true
+			}
+		]
+	},
+	"fact33": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact33",
+				"stream": true
+			}
+		]
+	},
+	"fact34": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact34",
+				"stream": true
+			}
+		]
+	},
+	"fact35": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact35",
+				"stream": true
+			}
+		]
+	},
+	"fact36": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact36",
+				"stream": true
+			}
+		]
+	},
+	"fact37": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact37",
+				"stream": true
+			}
+		]
+	},
+	"fact38": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact38",
+				"stream": true
+			}
+		]
+	},
+	"fact39": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact39",
+				"stream": true
+			}
+		]
+	},
+	"fact40": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact40",
+				"stream": true
+			}
+		]
+	},
+	"fact41": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact41",
+				"stream": true
+			}
+		]
+	},
+	"fact42": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact42",
+				"stream": true
+			}
+		]
+	},
+	"fact43": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact43",
+				"stream": true
+			}
+		]
+	},
+	"fact44": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact44",
+				"stream": true
+			}
+		]
+	},
+	"fact45": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact45",
+				"stream": true
+			}
+		]
+	},
+	"fact46": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact46",
+				"stream": true
+			}
+		]
+	},
+	"fact47": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact47",
+				"stream": true
+			}
+		]
+	},
+	"fact48": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact48",
+				"stream": true
+			}
+		]
+	},
+	"fact49": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact49",
+				"stream": true
+			}
+		]
+	},
+	"fact50": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact50",
+				"stream": true
+			}
+		]
+	},
+	"fact51": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact51",
+				"stream": true
+			}
+		]
+	},
+	"fact52": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact52",
+				"stream": true
+			}
+		]
+	},
+	"fact53": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact53",
+				"stream": true
+			}
+		]
+	},
+	"fact54": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact54",
+				"stream": true
+			}
+		]
+	},
+	"fact55": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact55",
+				"stream": true
+			}
+		]
+	},
+	"fact56": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact56",
+				"stream": true
+			}
+		]
+	},
+	"fact57": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "supertnt:fact57",
+				"stream": true
+			}
+		]
+	},
+	"9mm.fire": {
+		"category": "player",
+		"sounds": [
+			"testmod3:items/gun/9mm_fire"
+		],
+		"subtitle": "subtitles.item.testmod3:gun.fire"
+	},
+	"action.saddle": {
+		"sounds": [
+			{
+				"name": "minecraft:entity.horse.saddle",
+				"type": "event"
+			}
+		],
+		"subtitle": "subtitles.action.testmod3:saddle"
+	}
+}

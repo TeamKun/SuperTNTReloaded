@@ -1,0 +1,23 @@
+{
+   "type":"minecraft:crafting_shaped",
+   "group":"supertnt",
+   "pattern":[
+      "BBB",
+      "BAB",
+      "BBB"
+   ],
+   "key":{
+      "A":{
+         "item":"minecraft:tnt",
+         "data": 0
+      },
+      "B":{
+         "item":"minecraft:arrow",
+         "data": 0
+      }
+   },
+   "result":{
+      "item":"supertnt:arrowtnt",
+      "data":0
+   }
+}

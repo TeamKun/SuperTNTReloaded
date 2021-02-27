@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"normal": {
+			"model": "supertnt:savetnt"
+		},
+		"explode=true": {
+			"model": "supertnt:savetnt"
+		},
+		"explode=false": {
+			"model": "supertnt:savetnt"
+		}
+	}
+}
